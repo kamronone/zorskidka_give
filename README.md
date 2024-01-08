@@ -28,16 +28,16 @@
 
 ###   .env
 
-    **`TOKEN=''
+    `TOKEN=''
      HOSTNAME_DB=''
      USER_DB=''
      PASSWORD_DB=''
-     DATABASE_DB=''`**
+     DATABASE_DB=''`
 ##### Установка зависимостей:
 
     `pip install -r requirements.txt`
 
 #### Запуск:
 
-    **`python app.py`# give_bot**
+    `python app.py`
 
