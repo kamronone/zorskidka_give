@@ -40,8 +40,5 @@
 #### Запуск:
 
     `python app.py`# give_bot
-# give_bot
-# zorskidka_give_bot
-# zorskidka_give_bot
-# zorskidka_give_bot
-# zorskidka_give_bot
+
+# zorskidka_give
