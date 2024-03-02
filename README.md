@@ -31,5 +31,5 @@
 
 #### Запуск:
 
-     python app.py
+     python main.py
 
